@@ -1,5 +1,8 @@
 # Tweet Instagram Posts Bot
 
+![GitHub all releases](https://img.shields.io/github/downloads/LucEast/tweet-instaposts-bot/total)
+![GitHub](https://img.shields.io/github/license/LucEast/tweet-instaposts-bot)
+
 This is the code that runs the account [@LucEast_bot](https://twitter.com/LucEast_bot) on Twitter, tweeting latest Instagram Post 
 
 ## Script Setup
@@ -51,3 +54,5 @@ Running a cronjob with virtualenv:
 ## License
 
 All source code and documentation in this repository is licensed under the [MIT license](LICENSE).
+
+![ReadMe_Card](https://github-readme-stats.vercel.app/api/pin/?username=LucEast&repo=tweet-instaposts-bot&title_color=3e83c8&text_color=00cb71&icon_color=299bab&bg_color=171717&hide_border=true)
